@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - AircraftTag
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - AircraftLayer
+  - BulletLayer
+  - AntiaircraftLayer
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: mostback
+    uniqueID: 2671259161
+    locked: 0
+  - name: back
+    uniqueID: 109491759
+    locked: 0
+  - name: middle
+    uniqueID: 3475655027
+    locked: 0
+  - name: front
+    uniqueID: 1606546063
+    locked: 0
+  - name: mostfront
+    uniqueID: 2137095655
+    locked: 0
